@@ -12,3 +12,4 @@ Private training videos for the Organization
 # Links
 ### Website Administration: http://bearsampp.com/administrator
 ### Facebook: https://www.facebook.com/groups/bearsampp
+### Youtube: https://www.youtube.com/c/BearsTutorials
