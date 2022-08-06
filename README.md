@@ -7,7 +7,7 @@ Private training videos for the Organization
 ### Organization Introduction:   https://youtu.be/bBpUcy5TVhU
 
 
-<br><br>
+<br>
 
 # Links
 ### Website Administration: http://bearsampp.com/administrator
