@@ -16,3 +16,9 @@ Private training videos for the Organization
 ### Youtube: https://www.youtube.com/c/BearsTutorials
 
 ### Emojis: https://github.com/ikatyang/emoji-cheat-sheet
+
+
+# Tools
+### Inno setup builder https://github.com/portapps/innosetup-portable/releases
+### Inno extract https://github.com/dscharrer/innoextract
+
