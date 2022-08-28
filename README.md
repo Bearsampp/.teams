@@ -21,4 +21,4 @@ Private training videos for the Organization
 # Tools
 ### Inno setup builder https://github.com/portapps/innosetup-portable/releases
 ### Inno extract https://github.com/dscharrer/innoextract
-
+### Winbinder https://github.com/wagy/WinBinder/ ( 2019 fork of original which is now readonly from 2015 )
