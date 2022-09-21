@@ -5,7 +5,7 @@ Private training videos for the Organization
 
 
 ### Organization Introduction:   https://youtu.be/bBpUcy5TVhU
-### How to do development with Bearsampp: https://youtu.be/1Z68hGNh1Ms
+### How to be a "Bearsampp" developer: https://youtu.be/1Z68hGNh1Ms
 
 
 <br>
