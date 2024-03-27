@@ -27,6 +27,6 @@ Private training videos for the Organization
 
 
 # Tips
-to test for module functioning use this test.  Change module name as needed.
+to test for a php module functioning use this test.  Change module name as needed.
 ``` php --ri imagick```
 
