@@ -18,14 +18,14 @@ Private training videos for the Organization
 ### Emojis: https://github.com/ikatyang/emoji-cheat-sheet
 ### PickNPlug: https://github.com/Bearsampp/.PickNPlug
 ### Bearsampp Accordion: https://github.com/Bearsampp/Bearsampp-Accordion
-
+<br>
 
 # Tools
 ### Inno setup builder https://github.com/portapps/innosetup-portable/releases
 ### Inno extract https://github.com/dscharrer/innoextract
 ### Winbinder https://github.com/wagy/WinBinder/ ( 2019 fork of original which is now readonly from 2015 )
 ### [Winbinder PDF guide](https://github.com/Bearsampp/.teams/blob/d9cce080c3e2245bfa94ac41bc21bab49117e10e/silo.tips_winbinding-your-code-win32-gui-development-with-php-and-winbinder-aaron-wormus.pdf) 
-
+<br>
 
 # Tips
 to test for a php module functioning use this test.  Change module name as needed.
