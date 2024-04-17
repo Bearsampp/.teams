@@ -15,7 +15,7 @@ Private training videos for the Organization
 ### Website: http://bearsampp.com
 ### Facebook: https://www.facebook.com/groups/bearsampp
 ### Youtube: https://www.youtube.com/c/BearsTutorials
-
+### PickNPlug: https://github.com/Bearsampp/.PickNPlug
 ### Emojis: https://github.com/ikatyang/emoji-cheat-sheet
 
 
