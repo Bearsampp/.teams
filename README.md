@@ -17,7 +17,7 @@ Private training videos for the Organization
 ### Youtube: https://www.youtube.com/c/BearsTutorials
 ### Emojis: https://github.com/ikatyang/emoji-cheat-sheet
 ### PickNPlug: https://github.com/Bearsampp/.PickNPlug
-### Bearsampp Accordion: https://github.com/Bearsampp/Bearsampp-Accordion
+### PWGen: https://pwgen-win.sourceforge.io/
 <br>
 
 # Tools
