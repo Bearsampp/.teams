@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+=======
+# Jetbrains
+/*.iml
+/.idea
+>>>>>>> fbfd6324e4a4c7de442c9bac9a7d7f7bff25cd83
 
 # User-specific stuff
 .idea/**/workspace.xml
@@ -81,6 +87,7 @@ fabric.properties
 .vs/
 .vsc/
 
+<<<<<<< HEAD
 #Bearsampp
 /.dev
 /.teams
@@ -792,3 +799,7 @@ fabric.properties
 /README.txt
 /robots.txt.dist
 /web.config.txt
+=======
+# ignore "current" directories
+/**/current
+>>>>>>> fbfd6324e4a4c7de442c9bac9a7d7f7bff25cd83
